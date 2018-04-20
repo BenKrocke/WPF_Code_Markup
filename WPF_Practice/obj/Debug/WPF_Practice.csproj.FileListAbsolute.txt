@@ -1,0 +1,9 @@
+C:\Users\Ben Krocke\source\repos\WPF_Practice\WPF_Practice\bin\Debug\WPF_Practice.exe.config
+C:\Users\Ben Krocke\source\repos\WPF_Practice\WPF_Practice\bin\Debug\WPF_Practice.exe
+C:\Users\Ben Krocke\source\repos\WPF_Practice\WPF_Practice\bin\Debug\WPF_Practice.pdb
+C:\Users\Ben Krocke\source\repos\WPF_Practice\WPF_Practice\obj\Debug\WPF_Practice.csprojResolveAssemblyReference.cache
+C:\Users\Ben Krocke\source\repos\WPF_Practice\WPF_Practice\obj\Debug\WPF_Practice.Properties.Resources.resources
+C:\Users\Ben Krocke\source\repos\WPF_Practice\WPF_Practice\obj\Debug\WPF_Practice.csproj.GenerateResource.cache
+C:\Users\Ben Krocke\source\repos\WPF_Practice\WPF_Practice\obj\Debug\WPF_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Ben Krocke\source\repos\WPF_Practice\WPF_Practice\obj\Debug\WPF_Practice.exe
+C:\Users\Ben Krocke\source\repos\WPF_Practice\WPF_Practice\obj\Debug\WPF_Practice.pdb

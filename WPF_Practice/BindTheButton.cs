@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
+using System.Windows.Data;
 
 namespace WPF_Practice
 {
@@ -32,6 +33,11 @@ namespace WPF_Practice
             btn.SetBinding(ToggleButton.IsCheckedProperty, "Topmost");
             btn.DataContext = this;
             Content = btn;
+        }
+
+        public void MakeBinding()
+        {
+            Binding binding = new Binding()
         }
     }
         
